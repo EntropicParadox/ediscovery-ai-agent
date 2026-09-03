@@ -42,6 +42,14 @@ Structured QC findings are passed to a Microsoft Foundry agent configured to pro
 
 The agent operates on the results of deterministic validation rather than being relied upon to determine whether objective metadata defects exist.
 
+## Example Output
+
+The following example shows the application analyzing structured QC findings generated from synthetic eDiscovery metadata.
+
+![Example eDiscovery AI Operations Agent output](docs/sample-output.png)
+
+*Example generated using synthetic test data. No client or matter data is shown.*
+
 ## Technology
 
 - Python
