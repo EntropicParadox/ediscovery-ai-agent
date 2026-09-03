@@ -15,7 +15,7 @@ The system intentionally separates factual validation from generative reasoning.
 
 ## Architecture
 
-![eDiscovery AI Operations Agent Architecture](docs/architecture.jpeg)
+![eDiscovery AI Operations Agent Architecture](docs/architecture.png)
 
 ## Current QC Capabilities
 
