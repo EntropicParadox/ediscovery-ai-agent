@@ -15,27 +15,7 @@ The system intentionally separates factual validation from generative reasoning.
 
 ## Architecture
 
-```text
-        eDiscovery Metadata
-                │
-                ▼
-      Deterministic QC Engine
-            (Python)
-                │
-                ▼
-       Structured QC Findings
-                │
-                ▼
-     Microsoft Foundry Agent
-                │
-                ▼
-    ┌─────────────────────────┐
-    │ Risk Summary            │
-    │ Affected Records        │
-    │ Remediation Guidance    │
-    │ Production Readiness    │
-    └─────────────────────────┘
-```
+![eDiscovery AI Operations Agent Architecture](docs/architecture.jpeg)
 
 ## Current QC Capabilities
 
